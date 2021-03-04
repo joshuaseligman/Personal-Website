@@ -11,7 +11,7 @@
                 "HTML"
             ],
             "tools": [
-                "SciPy", "React.js"
+                "React.js", "Node.js"
             ],
             "projectUrl": "https://github.com/joshuaseligman/Personal-Website"
         },
