@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "projectName": "Intro to Programming Final Project",
+            "date": "Fall 2020",
+            "description": "Application that computes the center of mass of a 2-dimensional plane bounded by polynomial functions. Using the SciPy and Matplotlib modules, I was able to perform all of the complex calculations while still being able to create a nice output for the user to visualize the results.",
+            "languages": [
+                "Python"
+            ],
+            "tools": [
+                "SciPy", "Matplotlib"
+            ],
+            "projectUrl": "https://github.com/joshuaseligman/Intro-to-Programming-Final-Project"
+        }
+    ]
+}
