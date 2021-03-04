@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/joshuaseligman.me/static/css/main.64bcb6e0.chunk.css",
-    "main.js": "/joshuaseligman.me/static/js/main.4a22f485.chunk.js",
-    "main.js.map": "/joshuaseligman.me/static/js/main.4a22f485.chunk.js.map",
+    "main.js": "/joshuaseligman.me/static/js/main.9d8b3de3.chunk.js",
+    "main.js.map": "/joshuaseligman.me/static/js/main.9d8b3de3.chunk.js.map",
     "runtime-main.js": "/joshuaseligman.me/static/js/runtime-main.b6645cb9.js",
     "runtime-main.js.map": "/joshuaseligman.me/static/js/runtime-main.b6645cb9.js.map",
     "static/js/2.e9add779.chunk.js": "/joshuaseligman.me/static/js/2.e9add779.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.b6645cb9.js",
     "static/js/2.e9add779.chunk.js",
     "static/css/main.64bcb6e0.chunk.css",
-    "static/js/main.4a22f485.chunk.js"
+    "static/js/main.9d8b3de3.chunk.js"
   ]
 }
