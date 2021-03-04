@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/joshuaseligman.me/static/css/main.64bcb6e0.chunk.css",
+    "main.js": "/joshuaseligman.me/static/js/main.4a22f485.chunk.js",
+    "main.js.map": "/joshuaseligman.me/static/js/main.4a22f485.chunk.js.map",
+    "runtime-main.js": "/joshuaseligman.me/static/js/runtime-main.b6645cb9.js",
+    "runtime-main.js.map": "/joshuaseligman.me/static/js/runtime-main.b6645cb9.js.map",
+    "static/js/2.e9add779.chunk.js": "/joshuaseligman.me/static/js/2.e9add779.chunk.js",
+    "static/js/2.e9add779.chunk.js.map": "/joshuaseligman.me/static/js/2.e9add779.chunk.js.map",
+    "static/js/3.4927b36a.chunk.js": "/joshuaseligman.me/static/js/3.4927b36a.chunk.js",
+    "static/js/3.4927b36a.chunk.js.map": "/joshuaseligman.me/static/js/3.4927b36a.chunk.js.map",
+    "index.html": "/joshuaseligman.me/index.html",
+    "static/css/main.64bcb6e0.chunk.css.map": "/joshuaseligman.me/static/css/main.64bcb6e0.chunk.css.map",
+    "static/js/2.e9add779.chunk.js.LICENSE.txt": "/joshuaseligman.me/static/js/2.e9add779.chunk.js.LICENSE.txt",
+    "static/media/Joshua Seligman Resume.175e05b8.pdf": "/joshuaseligman.me/static/media/Joshua Seligman Resume.175e05b8.pdf",
+    "static/media/me.659fa71e.jpeg": "/joshuaseligman.me/static/media/me.659fa71e.jpeg",
+    "static/media/sunset1.ae004772.jpeg": "/joshuaseligman.me/static/media/sunset1.ae004772.jpeg",
+    "static/media/sunset2.f54bf720.jpeg": "/joshuaseligman.me/static/media/sunset2.f54bf720.jpeg",
+    "static/media/sunset3.cf9e02d8.jpeg": "/joshuaseligman.me/static/media/sunset3.cf9e02d8.jpeg",
+    "static/media/sunset4.6f228f27.jpeg": "/joshuaseligman.me/static/media/sunset4.6f228f27.jpeg",
+    "static/media/sunset5.7d3238e6.jpeg": "/joshuaseligman.me/static/media/sunset5.7d3238e6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6645cb9.js",
+    "static/js/2.e9add779.chunk.js",
+    "static/css/main.64bcb6e0.chunk.css",
+    "static/js/main.4a22f485.chunk.js"
+  ]
+}
