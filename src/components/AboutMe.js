@@ -1,3 +1,4 @@
+//Import the images for the page
 import me from '../res/me.jpeg'
 import sunset1 from '../res/sunset1.jpeg'
 import sunset2 from '../res/sunset2.jpeg'
@@ -5,10 +6,13 @@ import sunset3 from '../res/sunset3.jpeg'
 import sunset4 from '../res/sunset4.jpeg'
 import sunset5 from '../res/sunset5.jpeg'
 
+//Defines the body of the page for displaying information about me
 function AboutMe() {
     return (
         <div className='about-me'>
             <h2>Here is a little bit about me...</h2>
+
+            {/* This div places the paragraph directly next to my picture */}
             <div className='about-me-top'>
                 <p>
                     My name is Josh Seligman and I am currently a freshman studying 
@@ -26,6 +30,9 @@ function AboutMe() {
                     <img src={me} alt='me'></img>
                 </div>
             </div>
+
+            {/* This div places a row of sunset pictures on the website below
+                the previously defined elements */}
             <div className='sunsets'>
                 <img src={sunset1} className='sunset' alt='sunset1'></img>
                 <img src={sunset2} className='sunset' alt='sunset2'></img>

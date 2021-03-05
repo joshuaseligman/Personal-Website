@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+This project is my personal website to showcase my academic, professional, and personal life.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Prior to working on this project, I had minimal knowledge of JavaScript and some basic HTML and CSS kowledge. Instead of building a plain website with just HTML and CSS, I wanted to create a website that would easily be able to be modified and expand in size as I progress through my academic and professional journey.
 
-## Available Scripts
+This flexibilty requirement lead me to the React.js web framework to build my website. I was initially impressed with React.js because it features capabilities to make general templates, or components, that define smaller parts of the website. Using basic control structures, these components are able to be combined in scale without having to duplicate HTML and CSS code, which was very appealing to me and my objectives.
 
-In the project directory, you can run:
+Learning the important JavaScript and React.js concepts was as simple as watching some Youtube video tutorials, but applying these skills in practice was much more difficult. Experimenting with my website as I built it and comparing the output based on a difference in a line of code was very valuable to me as I continued to gain a deeper understanding of React.js and how each component of my website was interacting with each other in the code.
 
-### `npm start`
+Similar techniques were used during development in regard to the CSS and styling of the website. I had taken a basic HTML/CSS class in middle school and have more recently taught web design and, therefore, knew the basic tags and styling properties. However, since I needed the website to be able to expand over time, I needed to approach the design of the website from a more long-term perspective. This is where CSS flexbox came into the picture. Through reading online articles, Stack Overflow, and just experimenting with my website, I realized how powerful the flexbox layout is as it helped me to easily design my website with the ability to upscale because every child element is treated in relation to the other children. In other words, as I add more projects to the website, for instance, CSS will automatically handle the layout without me needing to write any additional code to support the new projects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Overall, building my website was a major learning experience for me as I developed and improved upon countless software development and web design skills. However, the most important thing to note is how much fun I had working on the project. This enjoyment of working on a project while also learning is extremely motivational for me, and I look forward to continuing to build more amazing projects and expanding my skills.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+If you would like to run the website locally, please follow the instructions below.
 
-### `npm test`
+First and foremost, make sure you have downloaded Node.js on your computer. You can find the download link here: https://nodejs.org/en/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Next, after downloading the project, open a Terminal window and navigate to the project directory.
 
+Run the following command to install all of the project dependencies:
+### `npm install`
+
+To run the website on a development server, run the following command:
+### `npm run start`
+
+To build and run a production version of the website, run the following two commands:
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `npm run serve`

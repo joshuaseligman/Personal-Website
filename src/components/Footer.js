@@ -1,6 +1,8 @@
+//Defines the footer for the website
 function Footer () {
   return (
     <footer>
+      {/* Display the copyright information */}
       <div className='copyright'>
         <div className='copyright-text'>
           <p>
@@ -15,6 +17,7 @@ function Footer () {
             </a>
           </p>
         </div>
+        {/* This div places the images for the copyright in a nice row */}
         <div className='copyright-images'>
           <img src='https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1' />
           <img src='https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1' />
