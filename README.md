@@ -1,3 +1,5 @@
+# Personal-Website
+
 This project is my website to showcase my academic, professional, and personal life.
 
 Prior to working on this project, I had minimal knowledge of JavaScript and some basic HTML and CSS knowledge. Instead of building a plain website with just HTML and CSS, I wanted to create a website that would easily be able to be modified and expand in size as I progress through my academic and professional journey.
