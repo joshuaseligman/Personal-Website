@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "projectName": "Java Automated Testing",
+            "date": "March 2021",
+            "description": "Application that enables me to easily automate tests for my Software Development I programs. The JUnit library was helpful in creating the testing environment as I built off of its testing framework to add the necessary automation capabilities.",
+            "languages": [
+                "Java"
+            ],
+            "tools": [
+                "JUnit"
+            ],
+            "projectUrl": "https://github.com/joshuaseligman/Java-Automated-Testing"
+        },
+        {
             "projectName": "Personal Website",
             "date": "Winter 2021",
             "description": "This project is the website you are currently on! This was a huge learning experience as I learned how to build websites using the React.js framework.",
