@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.16754cc5.chunk.css",
-    "main.js": "/static/js/main.ddb56dec.chunk.js",
-    "main.js.map": "/static/js/main.ddb56dec.chunk.js.map",
+    "main.css": "/static/css/main.45f2759c.chunk.css",
+    "main.js": "/static/js/main.d47af3f0.chunk.js",
+    "main.js.map": "/static/js/main.d47af3f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.90dc3bd3.js",
     "runtime-main.js.map": "/static/js/runtime-main.90dc3bd3.js.map",
     "static/js/2.c5ed8a0c.chunk.js": "/static/js/2.c5ed8a0c.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.4927b36a.chunk.js": "/static/js/3.4927b36a.chunk.js",
     "static/js/3.4927b36a.chunk.js.map": "/static/js/3.4927b36a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.16754cc5.chunk.css.map": "/static/css/main.16754cc5.chunk.css.map",
+    "static/css/main.45f2759c.chunk.css.map": "/static/css/main.45f2759c.chunk.css.map",
     "static/js/2.c5ed8a0c.chunk.js.LICENSE.txt": "/static/js/2.c5ed8a0c.chunk.js.LICENSE.txt",
-    "static/media/Joshua Seligman Resume.175e05b8.pdf": "/static/media/Joshua Seligman Resume.175e05b8.pdf",
+    "static/media/Joshua Seligman Resume.9b2eb48d.pdf": "/static/media/Joshua Seligman Resume.9b2eb48d.pdf",
     "static/media/me.659fa71e.jpeg": "/static/media/me.659fa71e.jpeg",
     "static/media/sunset1.ae004772.jpeg": "/static/media/sunset1.ae004772.jpeg",
     "static/media/sunset2.f54bf720.jpeg": "/static/media/sunset2.f54bf720.jpeg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.90dc3bd3.js",
     "static/js/2.c5ed8a0c.chunk.js",
-    "static/css/main.16754cc5.chunk.css",
-    "static/js/main.ddb56dec.chunk.js"
+    "static/css/main.45f2759c.chunk.css",
+    "static/js/main.d47af3f0.chunk.js"
   ]
 }
