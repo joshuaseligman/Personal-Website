@@ -14,18 +14,22 @@ function AboutMe() {
 
             {/* This div places the paragraph directly next to my picture */}
             <div className='about-me-top'>
-                <p>
-                    My name is Josh Seligman and I am currently a freshman studying 
-                    Computer Science at Marist College in Poughkeepsie, NY.
-                    Although I am originally from the Princeton, NJ area, Marist has
-                    become my home due to my heavy involvement on campus and overall
-                    love for the school. Most notably, I am currently the Vice President 
-                    of the Computer Society and am also training to be a tour guide.
-                    The campus is absolutely gorgeous, so walking around campus and 
-                    watching the sunsets is a must-do for me every day of the week!
-                    Here are some of my favorite sunset pictures for your enjoyment
-                    and personal moment of relaxation:
-                </p>
+                <div className='about-me-top-p'>
+                    <p>
+                        My name is Josh Seligman and I am currently a freshman studying 
+                        Computer Science at Marist College in Poughkeepsie, NY.
+                        Although I am originally from the Princeton, NJ area, Marist has
+                        become my home due to my heavy involvement on campus and overall
+                        love for the school. Most notably, I am currently the Vice President 
+                        of the Marist College Computer Society and am also now a tour guide.
+                        Both of these roles mean the world to me as they enable me to do what I love by
+                        expressing my passion in the computing fields and showing prospective students
+                        why Marist has a special place in my heart. Marist's campus is absolutely 
+                        gorgeous, so walking around campus and watching the sunsets is a 
+                        must-do for me every day of the week! Here are some of my favorite 
+                        sunset pictures for your enjoyment and personal moment of relaxation:
+                    </p>
+                </div>
                 <div className='about-me-img-div'>
                     <img src={me} alt='me'></img>
                 </div>
@@ -48,8 +52,8 @@ function AboutMe() {
                 each of the four majors every year. In regard to my
                 video game interests, I love to play games with thrilling
                 and engaging stories, which leads me to noting that my favorite game is
-                <i>The Last of Us</i>(with<i>Uncharted 4</i>as a close second)!
-                However,<i>MLB The Show</i>is a solid selection any day of
+                The Last of Us (with Uncharted 4 as a close second)!
+                However, MLB The Show is a solid selection any day of
                 the week as it is by far my most played game.
             </p>
         </div>

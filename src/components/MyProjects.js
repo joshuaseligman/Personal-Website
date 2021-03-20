@@ -18,6 +18,7 @@ function MyProjects() {
     return (
         <div>
             <h2 className='project-header'>Here are all of my wonderful projects! Click on a project for more information.</h2>
+            <h2 className='project-header'>Alternatively, you can click <a className='git-link'href='https://github.com/joshuaseligman' target='_blank'>here</a> to go directly to my GitHub profile.</h2>
             {/* Display each project in an organized layout */}
             <div className='projects-div'>
                 {[...projectComponents]}

@@ -12,10 +12,6 @@ header {
   background-color: #7FDBFF;
 }
 
-img {
-  border-radius: 10%;
-}
-
 header a {
   color: #001F3F;
 }
@@ -80,8 +76,8 @@ header a {
 }
 
 .about-me * {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /* Style the first about paragraph and my picture to be next to each other */
@@ -90,21 +86,28 @@ header a {
   padding-bottom: 25px;
 }
 
-.about-me-top p{
+.about-me-top-p{
   width: 60%;
+  padding-left: 0px;
+}
+
+.about-me-top-p p {
+  padding-left: 0px;
 }
 
 .about-me-img-div {
   width: 40%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Display my picture centered within its space on the website*/
 .about-me-top img {
-  width: 190px;
-  height: 250px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  width: 55%;
+  height: 65%;
+  border-radius: 10%;
 }
 
 /* Sunset pictures should be evenly spaced along the width of the website */
@@ -119,6 +122,7 @@ header a {
 .sunset {
   width: 150px;
   height: 200px;
+  border-radius: 20%;
 }
 
 /* Projects are going to display 2 per row with wrapping on the row.
@@ -173,6 +177,14 @@ header a {
 .project-header {
   font-size: 25px;
   text-align: center;
+}
+
+.git-link {
+  color:#001F3F;
+}
+
+.git-link:hover {
+  color:#FF4136;
 }
 
 footer {
