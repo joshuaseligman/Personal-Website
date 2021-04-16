@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "projectName": "Stock Market Sector Investigation",
+            "date": "Spring 2021",
+            "description": "Data science project where I analyzed the relative stock market performance of the different company sectors in 2020.",
+            "languages": [
+                "Python"
+            ],
+            "tools": [
+                "Jupyter Notebooks", "Pandas", "Matplotlib", "Beautiful Soup", "Numpy"
+            ],
+            "projectUrl": "https://github.com/joshuaseligman/Stock-Market-Sector-Investigation"
+        },
+        {
             "projectName": "Java Automated Testing",
             "date": "Winter 2021",
             "description": "Application that enables me to easily automate tests for my Software Development I programs. The JUnit library was helpful in creating the testing environment as I built off of its testing framework to add the necessary automation capabilities.",
