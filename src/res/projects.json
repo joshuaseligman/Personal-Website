@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "projectName": "May I Have Your Attention, Please?",
+            "date": "Spring 2021",
+            "description": "Project for the Marist-IBM Datathon in April 2021. Built a Cascade classifier with OpenCV for object detection of one's eyes. The model was then embedded in a Kivy application that promotes increased attention spans in the digital world.",
+            "languages": [
+                "Python"
+            ],
+            "tools": [
+                "OpenCV", "Kivy", "Pandas", "Matplotlib", "Jupyter notebooks"
+            ],
+            "projectUrl": "https://github.com/joshuaseligman/May-I-Have-Your-Attention-Please"
+        },
+        {
             "projectName": "Stock Market Sector Investigation",
             "date": "Spring 2021",
             "description": "Data science project where I analyzed the relative stock market performance of the different company sectors in 2020.",
@@ -8,14 +20,14 @@
                 "Python"
             ],
             "tools": [
-                "Jupyter Notebooks", "Pandas", "Matplotlib", "Beautiful Soup", "Numpy"
+                "Pandas", "Matplotlib", "Beautiful Soup", "Numpy", "Jupyter notebooks"
             ],
             "projectUrl": "https://github.com/joshuaseligman/Stock-Market-Sector-Investigation"
         },
         {
             "projectName": "Java Automated Testing",
             "date": "Winter 2021",
-            "description": "Application that enables me to easily automate tests for my Software Development I programs. The JUnit library was helpful in creating the testing environment as I built off of its testing framework to add the necessary automation capabilities.",
+            "description": "Application that enables me to easily automate tests for my programs for my Java development class. The JUnit library was helpful in creating the testing environment as I built off of its testing framework to add the necessary automation capabilities.",
             "languages": [
                 "Java"
             ],
